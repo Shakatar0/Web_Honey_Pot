@@ -3,7 +3,7 @@
 define('DB_NAME', 'wp_db847');    /** The name of your database for WordPress */
 define('DB_USER', 'root');     /** MySQL database username */
 define('DB_PASSWORD', 'passw0rd'); /** MySQL database password */
-define('DB_HOST', 'localhost');    // 99% chance you won't need to change this value
+define('DB_HOST', 'localhost');    /** MySQL hostname */
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
 
