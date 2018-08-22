@@ -3,14 +3,7 @@
 Voici une sorte "d'Honey Pot" en PhP qui log l'adresse ip, les informations du navigateur du "hacker" sur une base de données.
 
 ----------------------FONCTIONNEMENT----------------------
-• Le "hacker" arrive sur la catégorie "Google Hacking Database" de exploit-db.
-• Copie "inurl:wp-config.bak" et le recherche sur Google.
-• Il clique sur le lien d'un site.
-• Il tombe sur ça : https://prnt.sc/klba3y
-• Il est content mais ça lui sert à rien...
-
-De mon côté j'ai déjà récupéré son adresse ip, les informations sur le navigateur et l'os.
-
+TEst
 ----------------------FONCTIONNEMENT----------------------
 
 
