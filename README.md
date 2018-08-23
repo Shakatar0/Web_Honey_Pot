@@ -23,6 +23,12 @@ Voici une sorte "d'Honey Pot" en PhP qui log l'adresse ip, les informations du n
 
 
 
+
+
+
+
+
+
 ----------------------INFORMATIONS À PROPOS DE LA LICENCE MIT----------------------
 
 La licence donne à toute personne recevant le logiciel le droit illimité de l'utiliser, le copier, le modifier, le fusionner, le publier, le distribuer, le vendre et de changer sa licence. La seule obligation est de mettre le nom des auteurs avec la notice de copyright.
